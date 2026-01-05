@@ -1,0 +1,7 @@
+export { default as EventHeroSection } from './EventHeroSection'
+export { default as EventDetailsSection } from './EventDetailsSection'
+export { default as EventContentSection } from './EventContentSection'
+export { default as EventVideoSection } from './EventVideoSection'
+export { default as EventRegistrationSection } from './EventRegistrationSection'
+export { default as EventCTASection } from './EventCTASection'
+export { default as EventPageTracker } from './EventPageTracker'

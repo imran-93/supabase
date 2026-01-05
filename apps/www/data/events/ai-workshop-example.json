@@ -1,0 +1,107 @@
+{
+  "slug": "ai-workshop-example",
+  "title": "AI-Powered Sales Automation Workshop",
+  "hero": {
+    "headline": "Transform Your Sales Process with AI",
+    "subheadline": "5 Days to Copy Our AI System",
+    "description": "Join us for an exclusive workshop where you'll learn how to leverage AI to automate your sales process, generate more leads, and close more deals - all while working smarter, not harder.",
+    "primaryCta": {
+      "text": "Register Now",
+      "href": "#register"
+    },
+    "secondaryCta": {
+      "text": "Learn More",
+      "href": "#details"
+    }
+  },
+  "eventDetails": {
+    "date": "2025-02-01",
+    "time": "14:00",
+    "endTime": "15:30",
+    "timezone": "America/New_York",
+    "format": "webinar",
+    "duration": "90 minutes",
+    "speakers": [
+      {
+        "name": "Darren Lee",
+        "title": "CEO",
+        "company": "Aura",
+        "bio": "Entrepreneur and AI automation expert helping businesses scale with intelligent systems."
+      }
+    ]
+  },
+  "video": {
+    "enabled": true,
+    "heading": "Watch the Preview",
+    "videoUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  "contentSections": [
+    {
+      "id": "agenda",
+      "type": "agenda",
+      "header": "What You'll Learn",
+      "subheader": "Everything you need to start generating income with AI",
+      "items": [
+        {
+          "title": "AI-Powered Lead Generation",
+          "description": "Learn how to use AI tools to identify and qualify leads automatically"
+        },
+        {
+          "title": "Automated Follow-Up Systems",
+          "description": "Set up intelligent follow-up sequences that nurture leads while you sleep"
+        },
+        {
+          "title": "Sales Pipeline Automation",
+          "description": "Build an automated pipeline that moves leads through your funnel"
+        },
+        {
+          "title": "AI Content Creation",
+          "description": "Generate compelling sales content using AI assistants"
+        },
+        {
+          "title": "Scaling with AI Agents",
+          "description": "Deploy AI agents to handle repetitive tasks and scale your operations"
+        }
+      ]
+    },
+    {
+      "id": "benefits",
+      "type": "benefits",
+      "header": "Why Attend?",
+      "items": [
+        "Learn proven AI strategies used by top performers",
+        "Get hands-on templates and tools you can use immediately",
+        "Network with other ambitious entrepreneurs",
+        "Q&A session to get your specific questions answered",
+        "Exclusive bonuses for live attendees"
+      ]
+    }
+  ],
+  "registration": {
+    "enabled": true,
+    "heading": "Reserve Your Spot",
+    "subheading": "Space is limited - register now to secure your place",
+    "submitButtonText": "Register for Free",
+    "redirectUrl": "https://calendly.com/example/ai-workshop"
+  },
+  "ctaSection": {
+    "enabled": true,
+    "heading": "Ready to Transform Your Sales?",
+    "subheading": "Join hundreds of entrepreneurs who have already automated their sales process with AI",
+    "primaryCta": {
+      "text": "Register Now",
+      "href": "#register"
+    }
+  },
+  "utmTracking": {
+    "defaultSource": "website",
+    "defaultMedium": "event",
+    "defaultCampaign": "ai-workshop-example"
+  },
+  "seo": {
+    "title": "AI-Powered Sales Automation Workshop | Free Webinar",
+    "description": "Learn how to automate your sales process with AI. Join our free 90-minute workshop and discover proven strategies to generate more leads and close more deals."
+  },
+  "darkMode": true,
+  "isPublished": true
+}

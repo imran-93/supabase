@@ -40,6 +40,14 @@ export const SPECIAL_ANNOUNCEMENT_URL =
       ? `https://${process.env.NEXT_PUBLIC_VERCEL_URL}/ga-week`
       : 'http://localhost:3000/ga-week'
 export const SITE_ORIGIN = new URL(SITE_URL).origin
+
+// Base URL for the www site (used for event pages, etc.)
+export const BASE_URL =
+  process.env.NEXT_PUBLIC_VERCEL_ENV === 'production'
+    ? 'https://supabase.com'
+    : process.env.NEXT_PUBLIC_VERCEL_URL
+      ? `https://${process.env.NEXT_PUBLIC_VERCEL_URL}`
+      : 'http://localhost:3000'
 export const TWITTER_USER_NAME = 'supabase'
 export const LW7_DATE = 'April 10th 2023'
 export const LW8_DATE = 'August 7-11'
